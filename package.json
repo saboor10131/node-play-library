@@ -1,7 +1,7 @@
 {
-  "name": "smart-string-utils",
+  "name": "node-play-library",
   "version": "1.0.0",
-  "description": "Helper methods for strings",
+  "description": "node library for playing around",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
