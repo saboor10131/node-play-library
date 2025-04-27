@@ -1,5 +1,1 @@
-const stringUtils = require("./string-utils");
-
-module.exports = {
-  stringer: stringUtils,
-};
+export * as stringUtils from "./string-utils.js";
